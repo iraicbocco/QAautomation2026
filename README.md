@@ -1,5 +1,3 @@
-# QAautomation2026
-Repositorio creado para guardar los códigos de Cypress vistos en QA automation 2026
 ## Automatización de control de calidad — Cypress 🧪 🚀
 Repositorio para guardar ejercicios y ejemplos prácticos de QA Automation usando Cypress, siguiendo el enfoque "Technology with Purpose" de Santex. 💎 🤝
 
